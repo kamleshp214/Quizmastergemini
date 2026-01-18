@@ -1,0 +1,5 @@
+{
+  "name": "QuizMaster",
+  "description": "A production-grade, zero-config AI quiz platform powered by Google Gemini. Upload PDFs, documents, or text to instantly generate interactive quizzes with detailed explanations and performance tracking.",
+  "requestFramePermissions": []
+}
